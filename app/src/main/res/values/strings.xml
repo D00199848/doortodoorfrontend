@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Landing Page</string>
+    <string name="search">Search For Your Local Store </string>
+    <string name="slogan">....because there\'s more!</string>
+    <string name="history">Order History</string>
+    <string name="search_tab">Search</string>
+    <string name="account">Account settings</string>
+    <string name="recent_orders">Recent Orders</string>
+    <string name="advert">Advertisement</string>
+    <string name="scroll_text">Coleman Rd,  Cavan \n\n 11/11/2020 \n\n €24.60 \n\n\n Connolly Rd,
+Dublin \n\n1/11/2020 \n\n€15.40</string>
+</resources>
